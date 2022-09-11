@@ -133,7 +133,7 @@ function randomizeImage() {
       // Get Random Number
       let randomNumber = Math.floor(Math.random() * imageArray.length);
       // Change Background Image
-      landingPage.style.backgroundImage = `url('../image/${imageArray[randomNumber]}')`;
+      landingPage.style.backgroundImage = `url('image/${imageArray[randomNumber]}')`;
     }, 5000);
   }
 }
