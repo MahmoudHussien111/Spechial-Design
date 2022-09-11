@@ -162,7 +162,7 @@ html {
 /* Start Landing Page */
 .landing-page {
   min-height: 100vh;
-  background-image: url("image/-1.png");
+  background-image: url("../image/-1.png");
   background-size: cover;
   position: relative;
 }
@@ -684,7 +684,7 @@ html {
   min-height: 600px;
   padding-top: 70px;
   padding-bottom: 70px;
-  background-image: url("image/contact us/-1.png");
+  background-image: url("../image/contact us/-1.png");
 }
 .contact .overlay {
   position: absolute;
